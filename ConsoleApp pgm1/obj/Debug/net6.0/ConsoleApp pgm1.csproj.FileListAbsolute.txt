@@ -1,0 +1,15 @@
+C:\Users\ETG1\source\repos\ConsoleApp pgm1\bin\Debug\net6.0\ConsoleApp pgm1.exe
+C:\Users\ETG1\source\repos\ConsoleApp pgm1\bin\Debug\net6.0\ConsoleApp pgm1.deps.json
+C:\Users\ETG1\source\repos\ConsoleApp pgm1\bin\Debug\net6.0\ConsoleApp pgm1.runtimeconfig.json
+C:\Users\ETG1\source\repos\ConsoleApp pgm1\bin\Debug\net6.0\ConsoleApp pgm1.dll
+C:\Users\ETG1\source\repos\ConsoleApp pgm1\bin\Debug\net6.0\ConsoleApp pgm1.pdb
+C:\Users\ETG1\source\repos\ConsoleApp pgm1\obj\Debug\net6.0\ConsoleApp pgm1.csproj.AssemblyReference.cache
+C:\Users\ETG1\source\repos\ConsoleApp pgm1\obj\Debug\net6.0\ConsoleApp pgm1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ETG1\source\repos\ConsoleApp pgm1\obj\Debug\net6.0\ConsoleApp pgm1.AssemblyInfoInputs.cache
+C:\Users\ETG1\source\repos\ConsoleApp pgm1\obj\Debug\net6.0\ConsoleApp pgm1.AssemblyInfo.cs
+C:\Users\ETG1\source\repos\ConsoleApp pgm1\obj\Debug\net6.0\ConsoleApp pgm1.csproj.CoreCompileInputs.cache
+C:\Users\ETG1\source\repos\ConsoleApp pgm1\obj\Debug\net6.0\ConsoleApp pgm1.dll
+C:\Users\ETG1\source\repos\ConsoleApp pgm1\obj\Debug\net6.0\refint\ConsoleApp pgm1.dll
+C:\Users\ETG1\source\repos\ConsoleApp pgm1\obj\Debug\net6.0\ConsoleApp pgm1.pdb
+C:\Users\ETG1\source\repos\ConsoleApp pgm1\obj\Debug\net6.0\ConsoleApp pgm1.genruntimeconfig.cache
+C:\Users\ETG1\source\repos\ConsoleApp pgm1\obj\Debug\net6.0\ref\ConsoleApp pgm1.dll
